@@ -81,6 +81,8 @@ return {
 	"لاشي",
 	"جنده",
 	"jende",
+	"permag",
+	"matador",
 	"tokhmi",
 	"madarjende",
 	"kharkosde",
@@ -100,6 +102,4 @@ return {
   pre_process = pre_process
 }
 
--- http://permag.ir
--- @permag_ir
--- @permag_bots
+-- @LockerTeam
